@@ -1,8 +1,0 @@
-DELAY 1000
-GUI r
-DELAY 500
-STRING microsoft-edge:
-ENTER
-DELAY 1500
-STRING https://www.linkedin.com/
-ENTER
